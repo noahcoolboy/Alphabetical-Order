@@ -13,7 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: alphabeticalOrder
   title: Alphabetical Order
-  description: Press the buttons in alphabetical order!
+  author: 
+  description: "This is a [b]re-upload[/b] of Noahcoolboy\u2019s module. Please [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1629310239]unsubscribe
+    from the old version[/url].\n\nPress the buttons in alphabetical order!\n\n"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 2ccd554593d21b7498948e880ff27ab4, type: 3}
