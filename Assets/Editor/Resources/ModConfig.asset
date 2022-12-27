@@ -13,7 +13,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: alphabeticalOrder
   title: Alphabetical Order
-  description: Press the buttons in alphabetical order!
+  author: Noahcoolboy
+  description: "This is a [b]re-upload[/b] of Noahcoolboy\u2019s module. Please [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1629310239]unsubscribe
+    from the old version[/url].\r\n\r\nPress the buttons in alphabetical order!\r\n\r\n[url=https://ktane.timwi.de/HTML/Alphabetical%20Order.html]Manual
+    HTML[/url]\r\n[url=https://ktane.timwi.de/PDF/Alphabetical%20Order.pdf]Manual
+    PDF[/url]"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 2ccd554593d21b7498948e880ff27ab4, type: 3}
